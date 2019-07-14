@@ -1,0 +1,14 @@
+md5: 1f233f4fa69a6b4aafae77165ab5c075
+cmd: /usr/local/opt/python/bin/python3.7 /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/src/trainModel.py
+wdir: ../..
+deps:
+- md5: 49275eca4981d715c91ee1522254d413
+  path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/src/trainModel.py
+- md5: 3deb27fa7c86050d5a0433a5aa8b7b83
+  path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/data/dataTrain.csv
+outs:
+- md5: 827e41e04542eca51a7845e0434ac09d
+  path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/model.pkl
+  cache: true
+  metric: false
+  persist: false

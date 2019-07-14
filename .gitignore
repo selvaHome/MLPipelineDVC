@@ -1,2 +1,4 @@
 MLPipelineDVC/data/*
 MLPipelineDVC/outputs/*
+MLPipelineDVC/.vscode/
+MLPipelineDVC/dvcCommands
