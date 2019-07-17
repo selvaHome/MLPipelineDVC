@@ -10,5 +10,6 @@ outs:
 - md5: 2cb150ec93b0e0c2f38a8ae62224b015
   path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/score.json
   cache: false
-  metric: true
+  metric:
+    type: raw
   persist: false
