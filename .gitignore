@@ -2,3 +2,5 @@ MLPipelineDVC/data/*
 MLPipelineDVC/outputs/*
 MLPipelineDVC/.vscode/
 MLPipelineDVC/dvcCommands
+MLPipelineDVC/src/downloadData.py
+post_material

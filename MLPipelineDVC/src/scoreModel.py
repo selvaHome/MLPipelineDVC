@@ -8,7 +8,7 @@ with open('/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/out
     model = pickle.load(file)
 
 # score model on test dataset
-dataTest = np.loadtxt(open('/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/data/dataTest.csv',"rb"), delimiter=",")
+dataTest = np.loadtxt(open('/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/data/data_processed/dataTest.csv',"rb"), delimiter=",")
 score = model.score(dataTest[:,:-1], dataTest[:,-1])  
 score_json = {"score": score}
 with open('/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/score.json', 'w') as fp:
