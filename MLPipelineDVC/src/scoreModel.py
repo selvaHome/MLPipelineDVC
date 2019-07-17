@@ -20,5 +20,3 @@ plt.legend(loc='upper left')
 plt.xlabel('Actual')
 plt.ylabel('Predicted')
 plt.savefig('/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/cl.png')
-
-
