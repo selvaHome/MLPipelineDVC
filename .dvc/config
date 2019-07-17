@@ -1,0 +1,5 @@
+
+['remote "dvcRemoteLocal"']
+url = /Users/selva/Documents/projects/dvcStorage/MLPipelineDVC
+[core]
+remote = dvcRemoteLocal
