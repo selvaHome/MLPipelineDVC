@@ -1,5 +1,5 @@
 MLPipelineDVC/data/*
-/MLPipelineDVC/outputs/model.pkl
+/Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/model.pkl
 MLPipelineDVC/.vscode/
 MLPipelineDVC/dvcCommands
 MLPipelineDVC/src/downloadData.py
