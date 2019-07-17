@@ -1,5 +1,5 @@
 MLPipelineDVC/data/*
-MLPipelineDVC/outputs/*
+MLPipelineDVC/outputs/model.pkl
 MLPipelineDVC/.vscode/
 MLPipelineDVC/dvcCommands
 MLPipelineDVC/src/downloadData.py
