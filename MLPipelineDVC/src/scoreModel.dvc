@@ -1,11 +1,13 @@
-md5: 38851d92e2acf02a9d0a27e9894cb1e2
+md5: d8ceb0670be3d00c4898efba76b1ea9e
 cmd: /usr/local/opt/python/bin/python3.7 /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/src/scoreModel.py
 wdir: ../..
 deps:
-- md5: 6f5aa6ff9259d9949daa745a81909c4c
+- md5: 39da1656a90caac6e931d020c65c49ab
   path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/src/scoreModel.py
 - md5: 827e41e04542eca51a7845e0434ac09d
   path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/model.pkl
+- md5: 1e93a10a32be16ef73fb7932b080e7a8
+  path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/data/data_processed/dataTest.csv
 outs:
 - md5: f1bf86d7db726bec08b7e98f268360d9
   path: /Users/selva/Documents/linkedinPosts/rae2822Airfoil/MLPipelineDVC/outputs/score.json
