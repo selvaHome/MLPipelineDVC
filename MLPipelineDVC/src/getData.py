@@ -1,3 +1,8 @@
+#
+#  getData.py
+#  Created by Selvakumar Ulaganathan, PhD on 18/07/19.
+#
+
 import os
 import numpy as np
 

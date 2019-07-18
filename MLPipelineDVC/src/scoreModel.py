@@ -1,3 +1,9 @@
+
+#
+#  scoreModel.py
+#  Created by Selvakumar Ulaganathan, PhD on 18/07/19.
+#
+
 import pickle 
 import numpy as np
 import json
